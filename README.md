@@ -1,14 +1,8 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
 
 MyPosts
 ===
 
-## Table of Contents
 
-[TOC]
 
 ## Overview
 
