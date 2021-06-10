@@ -1,4 +1,4 @@
-Django==2.1
+Django==2.2.24
 djangorestframework==3.9.4
 numpy==1.16.4
 pandas==0.24.2
